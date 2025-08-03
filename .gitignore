@@ -16,3 +16,12 @@ assets/qrcodes/
 
 # Ignore environment variables file (if used later)
 .env
+main.py
+admin_panel.py
+client_login.py
+client_record.py
+qr_generator.py
+
+# ⛔ Fonts & icons
+fonts/
+OIP.ico
